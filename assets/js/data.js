@@ -11,34 +11,130 @@ const perpustakaanData = {
 const pengurus = [
     {
         id: 1,
-        nama: "Fariz",
+        nama: "Muhammad Fariz Arriziq",
         jabatan: "Ketua",
-        foto: "images.png"
+        foto: "fariz.jpeg"
     },
     {
         id: 2,
-        nama: "Budi Santoso",
-        jabatan: "Wakil Ketua",
+        nama: "Risma Nur Fauziyah",
+        jabatan: "Sekertaris",
         foto: "images.png"
     },
     {
         id: 3,
-        nama: "Ani Wijaya",
-        jabatan: "Sekretaris",
-        foto: "images.png"
-    },
-    {
-        id: 4,
-        nama: "Rudi Hartono",
+        nama: "Gita Sri Anggraeni",
         jabatan: "Bendahara",
         foto: "images.png"
     },
     {
-        id: 5,
-        nama: "Dewi Kusuma",
-        jabatan: "Koordinator Koleksi",
+        id: 4,
+        nama: "Abdul Aziz A",
+        jabatan: "Bidang Pengolahan",
         foto: "images.png"
-    }
+    },
+    {
+        id: 5,
+        nama: "M Alwin Setianto",
+        jabatan: "Bidang Pengolahan",
+        foto: "images.png"
+    },
+    {
+        id: 6,
+        nama: "Firman Nur Misbah",
+        jabatan: "Bidang Pengolahan",
+        foto: "images.png"
+    },
+    {
+        id: 7,
+        nama: "Ahmad",
+        jabatan: "Bidang Pengolahan",
+        foto: "images.png"
+    },
+    {
+        id: 8,
+        nama: "Hagi M. Hamidzik",
+        jabatan: "Bidang Pengolahan",
+        foto: "images.png"
+    },
+    {
+        id: 9,
+        nama: "Firda Pradini",
+        jabatan: "Bidang Pengolahan",
+        foto: "images.png"
+    },
+    {
+        id: 10,
+        nama: "Nadia Eka Wardani",
+        jabatan: "Bidang Pengolahan",
+        foto: "images.png"
+    },
+    {
+        id: 11,
+        nama: "Fauzi",
+        jabatan: "Bidang Pengolahan",
+        foto: "images.png"
+    },
+    {
+        id: 12,
+        nama: "Firman F",
+        jabatan: "Bidang Layanan",
+        foto: "images.png"
+    },
+    {
+        id: 13,
+        nama: "Rizka Nugraha",
+        jabatan: "Bidang Layanan",
+        foto: "images.png"
+    },
+    {
+        id: 14,
+        nama: "Salwa",
+        jabatan: "Bidang Layanan",
+        foto: "images.png"
+    },
+    {
+        id: 15,
+        nama: "Nevi",
+        jabatan: "Bidang Layanan",
+        foto: "images.png"
+    },
+    {
+        id: 16,
+        nama: "Nia Kurnia Sari",
+        jabatan: "Bidang Layanan",
+        foto: "images.png"
+    },
+    {
+        id: 17,
+        nama: "Leni Nuraeni",
+        jabatan: "Bidang Layanan",
+        foto: "images.png"
+    },
+    {
+        id: 18,
+        nama: "M. Ziyan Alhusna",
+        jabatan: "Bidang Publikasi",
+        foto: "images.png"
+    },
+    {
+        id: 19,
+        nama: "M. Gilang Ramadhan",
+        jabatan: "Bidang Publikasi",
+        foto: "images.png"
+    },
+    {
+        id: 20,
+        nama: "M. Yusu",
+        jabatan: "Bidang Publikasi",
+        foto: "images.png"
+    },
+    {
+        id: 21,
+        nama: "Azis Febriyansah Saputra",
+        jabatan: "Bidang Publikasi",
+        foto: "images.png"
+    },
 ];
 
 // DATA BUKU
